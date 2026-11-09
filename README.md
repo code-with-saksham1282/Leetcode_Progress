@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/0013-roman-to-integer) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Array
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/1267-count-servers-that-communicate) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Depth-First Search
 |  |
 | ------- |
