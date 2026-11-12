@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/1267-count-servers-that-communicate) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/code-with-saksham1282/Leetcode_Progress/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
